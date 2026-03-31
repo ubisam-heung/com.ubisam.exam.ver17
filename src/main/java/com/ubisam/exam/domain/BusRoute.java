@@ -33,7 +33,7 @@ public class BusRoute {
   // private List<BusStop> busStops;
 
   // 하나의 노선에는 여러 대의 버스가 배정될 수 있음
-  // @OneToMany(mappedBy = "busRoutes")
+  // @OneToMany(mappedBy = "busRoute")
   // private List<Bus> buses;
 
   @Transient
